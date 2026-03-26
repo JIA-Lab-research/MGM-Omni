@@ -201,11 +201,13 @@ We provide some examples in our [blog post](https://mgm-omni.notion.site/MGM-Omn
 ## Citation
 If you find this repo useful for your research, we would appreciate it if you could cite our work 😊:
 ```
-@article{wang2025mgm,
+@article{wang2025mgmomni,
   title={MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech},
   author={Wang, Chengyao and Zhong, Zhisheng and Peng, Bohao and Yang, Senqiao and Liu, Yuqi and Gui, Haokun and Xia, Bin and Li, Jingyao and Yu, Bei and Jia, Jiaya},
   journal={arXiv preprint arXiv:2509.25131},
-  year={2025}
+  year={2025},
+  doi=10.48550/arXiv.2509.25131},
+  url={https://arxiv.org/abs/2509.25131}
 }
 
 @inproceedings{zhong2025lyra,
