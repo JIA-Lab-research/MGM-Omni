@@ -32,6 +32,7 @@ We present MGM-Omni, an omni-chatbot capable of processing text, image, video, a
 
 
 ## News
+- [6/20] 🔥 MGM-Omni is accepted in ECCV 2026.
 - [9/30] 🔥 The [technical report](https://arxiv.org/abs/2509.25131) for MGM-Omni is available at arxiv.
 - [9/29] 🔥 We release [Long-TTS-Eval](https://huggingface.co/datasets/wcy1122/Long-TTS-Eval), a benchmark for evaluating long-form and complex TTS. Please refer [here](https://github.com/dvlab-research/MGM-Omni/blob/main/mgm/eval/long_tts_eval/long_tts_eval.md) for more evaluation detail.
 - [9/27] 🔥 We release [MGM-Omni-TTS-2B-0927](https://huggingface.co/wcy1122/MGM-Omni-TTS-2B-0927), a stronger SpeechLM with more robust speech output.
